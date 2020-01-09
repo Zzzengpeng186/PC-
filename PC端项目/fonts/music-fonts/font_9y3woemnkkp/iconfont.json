@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "392958",
+      "name": "锁",
+      "font_class": "lock",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "714438",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1353827",
+      "name": "Airpods",
+      "font_class": "Airpods",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "4160919",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "4338063",
+      "name": "Apple Music",
+      "font_class": "AppleMusic",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "4338077",
+      "name": "iPod touch",
+      "font_class": "iPodtouch",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "8368660",
+      "name": "Homepod",
+      "font_class": "Homepod",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "10416232",
+      "name": "apple",
+      "font_class": "web_apple",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
